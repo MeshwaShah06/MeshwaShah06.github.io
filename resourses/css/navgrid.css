@@ -1,0 +1,75 @@
+@media only screen and (max-width: 950px){
+    
+    
+    #navig{
+        color: green;
+        margin:3%;
+        
+        position: absolute;
+        right:2%;
+        
+        display: block;
+        
+    }
+    #close{
+    display: none;
+        color: green;
+        margin:3%;
+        
+        position: absolute;
+        right:6%;
+        
+    
+        
+        
+        
+    }
+    
+    
+    .main-nav{
+    display: none;    
+        margin-right: 30%
+
+    }
+    .main-nav li {
+    
+        
+    display: flex;
+        
+        
+        }
+    
+    
+    
+}
+
+
+
+
+@media only screen and (max-width: 605px)
+{
+    
+    
+    .main-nav li{
+        
+        font-size: 15px
+    }
+    
+    .logo{
+        width:20%
+            
+        
+        
+    }
+     .black-logo{
+        width:20%
+            
+        
+        
+    }
+    #close{
+        display: none;
+        right:10%
+    }
+    
+}
